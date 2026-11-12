@@ -1,4 +1,4 @@
-# Contrail Avoidance Optimiser ✈️ (MATLAB)
+# Contrail Avoidance Optimiser (MATLAB)
 
 Can a transatlantic flight avoid forming persistent contrails, and what would it cost in fuel?
 
@@ -6,7 +6,7 @@ This project models a **London Heathrow (LHR) → New York JFK** flight using re
 
 ![Contrail regions and optimised routes](fig1_contrail_map.png)
 
-## Key results ([DATE], 12:00 UTC)
+## Key results (From the 1st to the 31st of January 2025, 12:00 UTC)
 
 | Extra fuel vs fuel-optimal route | Contrail distance avoided |
 |---|---|
@@ -66,4 +66,4 @@ All settings (aircraft, grid, flight levels, λ range) are in the **USER SETTING
 - Hersbach, H. et al. (2020). The ERA5 global reanalysis. *Q. J. R. Meteorol. Soc.*, 146, 1999–2049.
 
 ---
-*Personal project by Yara, MEng Aerospace Engineering student.*
+*Personal project by Yara Mustafa, MEng Aerospace Engineering student.*
