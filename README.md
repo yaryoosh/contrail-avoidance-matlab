@@ -42,7 +42,7 @@ This project models a **London Heathrow (LHR) → New York JFK** flight using re
 2. Put the `.nc` file in the same folder as `contrail_avoidance.m`, and set `dataFile` at the top of the script.
 3. Run the script in MATLAB (R2022a or newer). No toolboxes are required. The Mapping Toolbox adds coastlines if you have it.
 
-All settings (aircraft, grid, flight levels, λ range) are in the **USER SETTINGS** block at the top of the script.
+All settings (aircraft, grid, flight levels, λ range) are in the (User settings) block at the top of the script.
 
 ## Limitations
 
@@ -54,7 +54,6 @@ All settings (aircraft, grid, flight levels, λ range) are in the **USER SETTING
 
 ## Next steps
 
-- Run over a full month to see how often avoidance is worthwhile.
 - Weight contrails by time of day and radiative forcing.
 - Add mass reduction during the flight and step climbs.
 
